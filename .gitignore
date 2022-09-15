@@ -1,0 +1,7 @@
+reminderBackend/.env
+reminderFrontend/node_modules/
+reminderFrontend/package
+reminderFrontend/package-lock
+reminderBackend/node_modules/
+reminderBackend/package
+reminderBackend/package-lock
